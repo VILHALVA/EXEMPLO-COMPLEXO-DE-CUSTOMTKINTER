@@ -39,9 +39,11 @@
    - Caixas de seleção que podem ser marcadas ou desmarcadas pelo usuário.
 
 ## EXECUTANDO ESSE PROJETO:
-1. Certifique-se de ter as biblioteca customtkinter instalada no seu ambiente Python. Se não tiver, você pode instalá-la usando o pip:
-   ```
-   pip install customtkinter
+1. **Instalação das Dependências::**
+   - Entre no diretório `CODIGO` e execute o comando:
+
+   ```bash
+   pip install -r requirements.txt
    ```
 
 2. Para executar o arquivo Python, utilize o comando abaixo no terminal, dentro do diretório `./CODIGO`:
